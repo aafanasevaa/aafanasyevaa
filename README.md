@@ -23,7 +23,7 @@
 ### 	:two_hearts: *I also like:*  
 :notes: listening to music  
 :dog2: spending time with my dog  
-:camping: go camping  
+:camping: camping  
 
 
 ### :v: *Get in touch with me:* 
