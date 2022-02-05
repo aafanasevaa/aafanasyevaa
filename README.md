@@ -13,6 +13,13 @@
 | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.jpg" width="80" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="75" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="90" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="80" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.jpg" width="60" height="60" /> |  
 
 
+
+### *I also like*  
+:notes: *listening to music  
+:dog2: spending time with my dog  
+:camping: go camping*  
+
+
 <h4 align="left">:v:Get in touch with me:</h4>
 <p align="left">
 <a href="https://twitter.com/nnaaaastya?t=rDl2UHN76MY634Lzh5vUuA&s=09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="" height="35" width="35" /></a>
