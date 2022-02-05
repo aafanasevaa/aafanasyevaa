@@ -32,4 +32,3 @@
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> -->
 <a href="https://instagram.com/_.miss.fortune_?utm_medium=copy_link" target="blank"><img align="center" src="https://i.pinimg.com/564x/f6/c1/b5/f6c1b519fccff73506fae09c11b1e6b7.jpg" alt="" height="35" width="35" /></a>
 </p>
-
