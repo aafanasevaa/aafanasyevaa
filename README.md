@@ -10,7 +10,7 @@
 
 | Jenkins | Docker | Rest-Assured  | Appium  | Browserstack | 
 | :------:|:------:| :-----------: | :-----: | :----------: | 
-| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.png" width="50" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="80" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="60" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="60" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.png" width="60" height="60" /> |  
+| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.png" width="50" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="75" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="60" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="80" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.png" width="60" height="60" /> |  
 
 
 <h4 align="left">:v:Get in touch with me:</h4>
