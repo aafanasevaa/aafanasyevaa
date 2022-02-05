@@ -1,8 +1,13 @@
 ## Hey there!:candy:
 
-### I am a manual QA Engineer :construction_worker: currently learning QA Automation in the following stack: 
+*I am a manual QA Engineer :construction_worker: from Saint-Petersburg, Russia. Currently I am learning QA Automation at [QA.GURU](https://qa.guru/) and here are some links to my dimploma projects:* 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=UI_API_Diploma&theme=tokyonight)](https://github.com/aafanasyevaa/UI_API_Diploma)
 
 
+
+
+in the following stack:*
 
 | Java | Selenide  | Selenium  | Allure TestOps| Gradle |  JUnit | 
 | :---:| :------:  | :-------: | :----------:   | :----: |:---: |
@@ -12,7 +17,9 @@
 | :------:|:------:| :-----------: | :-----: | :----------: | 
 | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.jpg" width="80" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="75" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="90" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="80" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.jpg" width="60" height="60" /> |  
 
-
+## <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="40" height="40" />  *I learn QA Automation at [QA.GURU](https://qa.guru/)* and here are some links to my dimploma projects:
+[UI+API tests](https://github.com/aafanasyevaa/UI_API_Diploma)  
+[Mobile tests](https://github.com/aafanasyevaa/Mobile_Tests_Diploma)  
 
 ### *I also like*  
 :notes: *listening to music  
