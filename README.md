@@ -15,11 +15,11 @@
 
 | Java | Selenide  | Selenium  | Allure TestOps| Gradle |  JUnit | 
 | :---:| :------:  | :-------: | :----------:   | :----: |:---: |
-|<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Java.png" width="60" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenide.jpg" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenium.png" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Allure.jpg" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Gradle.png" width="80" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Junit.png" width="60" height="60" /> |
+|<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Java.png" width="60" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenide.jpg" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenium.png" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Allure.jpg" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Gradle.png" width="70" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Junit.png" width="60" height="60" /> |
 
 | Jenkins | Docker | Rest-Assured  | Appium  | Browserstack | 
 | :------:|:------:| :-----------: | :-----: | :----------: | 
-| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.jpg" width="80" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="75" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="103" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="100" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.jpg" width="67" height="60" /> |  
+| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.jpg" width="85" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="75" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="105" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="80" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.jpg" width="67" height="60" /> |  
 
 ***
 
@@ -27,6 +27,8 @@
 :notes: listening to music  
 :dog2: spending time with my dog  
 :camping: camping  
+:books: reading classic literature
+
 
 
 ### :v: *Get in touch with me:* 
