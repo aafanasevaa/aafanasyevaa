@@ -1,13 +1,16 @@
 ## Hey there!:candy:
 
-*I am a manual QA Engineer :construction_worker: from Saint-Petersburg, Russia. Currently I am learning QA Automation at [QA.GURU](https://qa.guru/) and here are some links to my dimploma projects:* 
+*I am a manual QA Engineer from Saint-Petersburg, Russia. Currently I am learning QA Automation at [QA.GURU](https://qa.guru/) and here are some links to my dimploma projects:* 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=UI_API_Diploma&theme=tokyonight)](https://github.com/aafanasyevaa/UI_API_Diploma)
+<a href="https://github.com/aafanasyevaa/UI_API_Diploma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=UI_API_Diploma&theme=tokyonight" />
+</a>
+<a href="https://github.com/aafanasyevaa/Mobile_Tests_Diploma">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=Mobile_Tests_Diploma&theme=tokyonight" />
+</a>
 
 
-
-
-in the following stack:*
+## <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="40" height="40" /> Languages and Tools
 
 | Java | Selenide  | Selenium  | Allure TestOps| Gradle |  JUnit | 
 | :---:| :------:  | :-------: | :----------:   | :----: |:---: |
@@ -17,17 +20,13 @@ in the following stack:*
 | :------:|:------:| :-----------: | :-----: | :----------: | 
 | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Jenkins.jpg" width="80" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Docker.png" width="75" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Rest-Assured.png" width="90" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Appium.png" width="80" height="60" /> |<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Browserstack.jpg" width="60" height="60" /> |  
 
-## <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" width="40" height="40" />  *I learn QA Automation at [QA.GURU](https://qa.guru/)* and here are some links to my dimploma projects:
-[UI+API tests](https://github.com/aafanasyevaa/UI_API_Diploma)  
-[Mobile tests](https://github.com/aafanasyevaa/Mobile_Tests_Diploma)  
-
-### *I also like*  
-:notes: *listening to music  
+### 	:two_hearts: *I also like:*  
+:notes: listening to music  
 :dog2: spending time with my dog  
-:camping: go camping*  
+:camping: go camping  
 
 
-<h4 align="left">:v:Get in touch with me:</h4>
+### :v: *Get in touch with me:* 
 <p align="left">
 <a href="https://twitter.com/nnaaaastya?t=rDl2UHN76MY634Lzh5vUuA&s=09" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="" height="35" width="35" /></a>
 <!-- <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a> -->
