@@ -15,7 +15,7 @@
 
 | Java | Selenide  | Selenium  | Allure TestOps| Gradle |  JUnit | 
 | :---:| :------:  | :-------: | :----------:   | :----: |:---: |
-|<img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Java.png" width="60" height="60" />| <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenide.jpg" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenium.png" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Allure.jpg" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Gradle.png" width="70" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Junit.png" width="60" height="60" /> |
+|<img src="https://user-images.githubusercontent.com/93313607/157079246-14082ffc-da6a-4f4a-90fb-7904994c2fcf.png" width="60" height="60" />| <img src="https://user-images.githubusercontent.com/93313607/157079516-505b059b-37f6-4741-9a18-7199c6c8b9b3.png" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Selenium.png" width="60" height="60" /> | <img src="https://user-images.githubusercontent.com/93313607/157079644-7d8ce5df-78ff-483c-83c6-ad76c661c25b.png" width="60" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Gradle.png" width="70" height="60" /> | <img src="https://github.com/aafanasyevaa/aafanasyevaa/blob/main/media/Junit.png" width="60" height="60" /> |
 
 | Jenkins | Docker | Rest-Assured  | Appium  | Browserstack | 
 | :------:|:------:| :-----------: | :-----: | :----------: | 
