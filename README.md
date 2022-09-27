@@ -1,6 +1,6 @@
 ## Hey there!:candy:
 
-*I am a manual QA Engineer from Saint-Petersburg, Russia. Currently I am learning QA Automation at [QA.GURU](https://qa.guru/) and here are links to my diplomas:* 
+*I am a QA Engineer having experience both as a Manual QA / QA Automation Engineer. I have taken courses QA Automation at [QA.GURU](https://qa.guru/) and here are links to my diplomas:* 
 
 <a href="https://github.com/aafanasyevaa/UI_API_Diploma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=UI_API_Diploma&theme=tokyonight" />
