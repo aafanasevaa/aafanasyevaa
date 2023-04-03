@@ -2,10 +2,10 @@
 
 *I am a QA Engineer having experience both as a Manual QA / QA Automation Engineer. I have taken courses QA Automation at [QA.GURU](https://qa.guru/) and here are links to my diplomas:* 
 
-<a href="https://github.com/aafanasyevaa/UI_API_Diploma">
+<a href="https://github.com/aafanasevaa/UI_API_Diploma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=UI_API_Diploma&theme=tokyonight" />
 </a>
-<a href="https://github.com/aafanasyevaa/Mobile_Tests_Diploma">
+<a href="https://github.com/aafanasevaa/Mobile_Tests_Diploma">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aafanasyevaa&repo=Mobile_Tests_Diploma&theme=tokyonight" />
 </a>
 
